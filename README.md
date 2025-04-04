@@ -1,4 +1,4 @@
-# Data Professionals Survey Breakdown
+# Data Professionals Survey
 
 ## Table of Contents
 
