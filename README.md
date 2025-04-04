@@ -11,4 +11,6 @@
 ### [Data Visualization]
 ### [Results of Findings]
 ### [Limitations]
-### [References]
+ [References]
+### Project Overview
+This project analyzes a dataset collected from a real-life survey of data professionals. The goal is to uncover trends in salaries, tools, happiness with salaries and work and provide data driven recommendations.
